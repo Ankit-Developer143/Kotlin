@@ -9,9 +9,9 @@ fun main(args: Array<String>){
 
 // This is the Infinite Loop
 
-        while (true){
+        /*while (true){
             println("Never Ending Loop")
-        }
+        }*/
 
     var x = 0
 
